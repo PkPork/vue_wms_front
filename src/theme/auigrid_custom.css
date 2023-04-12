@@ -1,0 +1,80 @@
+.left-text {
+    text-align: left !important;
+}
+
+.right-text {
+    text-align: right !important;
+}
+
+.ant-advanced-search-form {
+    padding: 10px 10px 5px 10px;
+    background: #fbfbfb;
+    border: 1px solid #d9d9d9;
+    border-radius: 6px;
+}
+
+.ant-advanced-search-form .ant-form-item {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.ant-advanced-search-form .ant-form-item-control-wrapper {
+    flex: 1;
+}
+
+#components-form-demo-advanced-search .ant-form {
+    max-width: none;
+
+}
+#components-form-demo-advanced-search .search-result-list {
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+/* 링크스타일*/
+.column-link-css {
+    text-decoration: underline;
+    color:#4374D9;
+}
+
+.column-link-css :hover{
+    color:#FF0000;
+}
+
+.sub_title{
+    font-weight: bold;
+    font-size: 0.95em;
+    color: #6c6565;
+    margin-bottom: 10px;
+    display: inline-block;
+
+}
+.default_btn{
+    border: 1px solid red;
+}
+
+.aui-grid-cell-editable {
+    background: #c9e8ff;
+}
+
+.aui-grid-cell-green01_center{
+    background: #8fe397;
+}
+
+.aui-grid-cell-gray01_center{
+    background: #a8a8a8;
+}
+
+.aui-grid-cell-red01_center{
+    background: #d43b3b;
+}
+
+.ant-advanced-search-form .ant-form-item{
+    margin-bottom:0px !important;
+}
+
+.one_search_one_grid_height{
+    width:100% !important;
+    height: calc(100vh - 366px);
+}
